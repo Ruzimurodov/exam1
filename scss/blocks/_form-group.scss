@@ -37,7 +37,7 @@
 
 .form-group__line {
     position: absolute;
-    left: 268px;
+    left: calc(50% - 484px);
     width: 100%;
     border-top: 1px solid #FFFFFF;
     transform: rotate(90deg);
